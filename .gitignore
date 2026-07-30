@@ -1,9 +1,0 @@
-authentication-ui/
-banking-insurance-poc/
-
-target/
-*.log
-.idea/
-.vscode/
-.DS_Store
-.metadata/
