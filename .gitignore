@@ -1,0 +1,9 @@
+.DS_Store
+.metadata/
+
+/B01-Eureka_server/
+/B02-Api_gateway/
+/B03-Auth_service/
+
+/authentication-ui/
+/banking-insurance-poc/
